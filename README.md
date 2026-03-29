@@ -10,7 +10,7 @@ Deactivate venv on mac with:
 `deactivate`
 
 install qrcode lib using following:
-`pip install "qrcode[pil]"`
+`pip install -r requirements.txt`
 
 run python code with following:
 `python qr_code_generator.py`
