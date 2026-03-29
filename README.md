@@ -1,16 +1,17 @@
 # python-basic
 
-Create env on mac with:  
+To run the code do following steps:
+
+1. Create env on mac:  
 `python3 -m venv .venv`  
 
-Activate env on mac with (needs a minimum of 1 .py file):
+2. Activate env on mac:
 `source .venv/bin/activate`
 
-Deactivate venv on mac with:
-`deactivate`
-
-install qrcode lib using following:
+3. install dependencies using following:
 `pip install -r requirements.txt`
 
-run python code with following:
-`python qr_code_generator.py`
+4. Now you can run the code using:  
+`python qr_code_generator.py`  
+OR  
+`python rock_paper_scissor.py`
