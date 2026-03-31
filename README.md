@@ -15,3 +15,5 @@ To run the code do following steps:
 `python qr_code_generator.py`  
 OR  
 `python rock_paper_scissor.py`
+
+5. To run jyupiter notebook make sure to select kernal from local venv created in step 1

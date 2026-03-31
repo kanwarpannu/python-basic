@@ -1,2 +1,3 @@
 # Requires/Last tested with Python >= 3.9,<3.11
 qrcode[pil]==7.4.2
+ipykernel==6.31.0
